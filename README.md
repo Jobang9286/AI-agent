@@ -1,1 +1,1 @@
-Scanpy mpc developed version by BG
+Developed version of Scanpy MCP by BG
