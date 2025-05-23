@@ -1,0 +1,16 @@
+scanpy==1.10.3
+anndata==0.10.9
+numpy==1.26.4
+scipy==1.14.1
+pandas==2.2.3
+scikit-learn==1.5.2
+statsmodels==0.14.3
+igraph==0.11.6
+pynndescent==0.5.13
+
+# MCP 관련
+mcp
+matplotlib
+
+# Optional (if needed later)
+# ipykernel

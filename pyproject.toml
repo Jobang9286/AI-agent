@@ -1,0 +1,12 @@
+[project]
+name = "scanpy-bg"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "leidenalg>=0.10.2",
+    "mcp[cli]>=1.9.0",
+    "python-igraph>=0.11.8",
+    "scanpy>=1.11.1",
+]
